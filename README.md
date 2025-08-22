@@ -87,22 +87,41 @@ It allows users to browse restaurants and menus, place online food orders, and m
    ![Homepage Demo](snap/a.png)
    
 ---
-  
-![Homepage Demo](snap/b.png)
+### 🎬 Demo
+  ![Homepage Demo](snap/b.png)
 
 ---
-![Homepage Demo](snap/c.png)
+### 🎬 Demo
+  ![Homepage Demo](snap/c.png)
 
 ---
-![Homepage Demo](snap/d.png)
+### 🎬 Demo
+  ![Homepage Demo](snap/d.png)
 
 ---
-![Homepage Demo](snap/e.png)
+### 🎬 Demo
+  ![Homepage Demo](snap/e.png)
 
 ---
-![Homepage Demo](snap/f.png)
+### 🎬 Demo
+  ![Homepage Demo](snap/f.png)
 
 ---
-![Homepage Demo](snap/g.png)
+### 🎬 Demo
+  ![Homepage Demo](snap/g.png)
+
+---
+## 🛠️ Future Improvements
+-   Integrate Payment Gateway (Stripe/PayPal)
+    
+-   Live Order Tracking with WebSockets
+    
+-   Restaurant Management Dashboard
+    
+-   Mobile App version with React Native
+
+---
+## 🤝 Contributing
+ Contributions are welcome! Please fork this repository and submit a pull request.
 
 
